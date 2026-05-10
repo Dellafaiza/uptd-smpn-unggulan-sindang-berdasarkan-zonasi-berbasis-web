@@ -112,7 +112,7 @@ php artisan key:generate
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=ppdb_smpn_sindang
+DB_DATABASE=your_db
 DB_USERNAME=username
 DB_PASSWORD=password
 
